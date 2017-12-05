@@ -8,7 +8,7 @@ http://rocksell.masfaris.com
 2. blog-TDD backend  
 https://github.com/fariswd/blog-tdd  
 
-3. blog-component  
+3. blog-TDD-frontend-component  
 https://github.com/fariswd/blog-components-layout  
 http://vueblog.masfaris.com/  
 
