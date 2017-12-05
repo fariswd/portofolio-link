@@ -28,5 +28,6 @@ http://todo.masfaris.com/
 https://github.com/fariswd/kanban  
 http://kanban.masfaris.com/  
 backup: https://vuevire.firebaseapp.com/  
+http://kanbanian.s3-website-ap-southeast-1.amazonaws.com/
 
 8. :rocket:
