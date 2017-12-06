@@ -17,6 +17,7 @@ https://github.com/fariswd/hacktivoverflow
 http://hacktiv8overflow.masfaris.com/  
 
 5. Semantic Web  
+http://semantic.masfaris.com/  
 https://github.com/fariswd/semantic-web  
 
 6. To-Do Fancy  
